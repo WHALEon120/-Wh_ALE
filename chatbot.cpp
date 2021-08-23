@@ -1,4 +1,4 @@
-    ```cpp
+
     #include<bits/stdc++.h>
 using namespace std;
 int DIGITS=4;    //宣告要猜的數字的位數，由使用者定義，初值設 4
@@ -223,4 +223,4 @@ int main(){
 	} while(a != "quit");
 	return 0;
 }
-    ```
+
